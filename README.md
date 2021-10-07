@@ -1,2 +1,1 @@
-# css-practice
-This is first css practice project
+https://mashrafiarahman.github.io/css-practice/about.html
