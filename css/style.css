@@ -1,0 +1,36 @@
+
+body{
+	background-color: skyblue;
+	background-image: url(sky.jpg);
+}
+
+h1 { 
+	text-align: center;
+	text-transform: capitalize;
+	color: red;
+	font-size: 30px; font-style: italic;
+}
+
+p { 
+	border: 2px dashed  red;
+
+}
+
+div {
+	border: 3px solid black;
+	width: 200px;
+	height: 200;
+	padding: 5px;
+	text-align: justify;
+}
+
+p.para2 {
+	height: 100px;
+	weight: 70px ;
+	background-color: purple  ;
+	border: none;
+	font-size: 20px;
+}
+
+
+	
